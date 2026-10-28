@@ -12,6 +12,43 @@
                 }
             ],
             "expires": "2026-11-27"
+        },
+        {
+            "hash": "da54638377ff6e84fb418549472abed544ac8936c320fc50419bfac556d60105",
+            "gold": 1000,
+            "items": [
+                {
+                    "id": "outfit.cloth.shirt",
+                    "count": 1,
+                    "rarity": "Mythic"
+                },
+                {
+                    "id": "outfit.cloth.headwrap",
+                    "count": 1,
+                    "rarity": "Legendary"
+                },
+                {
+                    "id": "outfit.cloth.trousers",
+                    "count": 1,
+                    "rarity": "Mythic"
+                },
+                {
+                    "id": "outfit.cloth.gloves",
+                    "count": 1,
+                    "rarity": "Legendary"
+                },
+                {
+                    "id": "outfit.cloth.shoes",
+                    "count": 1,
+                    "rarity": "Legendary"
+                },
+                {
+                    "id": "outfit.cloth.backpack",
+                    "count": 1,
+                    "rarity": "Mythic"
+                }
+            ],
+            "expires": "2026-11-27"
         }
     ]
 }
