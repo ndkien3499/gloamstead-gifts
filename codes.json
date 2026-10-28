@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "codes": [
+        {
+            "hash": "37bdc6a03ba8871007bb630d9dc32883dc45a5e5c70804ad36b9e9ebd238d3c9",
+            "gold": 0,
+            "items": [
+                {
+                    "id": "weapon.rifle.m4a1",
+                    "count": 1,
+                    "rarity": "Legendary"
+                }
+            ],
+            "expires": "2026-11-27"
+        }
+    ]
+}
