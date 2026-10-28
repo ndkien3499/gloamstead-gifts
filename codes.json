@@ -49,6 +49,33 @@
                 }
             ],
             "expires": "2026-11-27"
+        },
+        {
+            "hash": "9775633279010b85170008e2fb3eb528a6275c35aef3c980595af5e726fe26cd",
+            "gold": 0,
+            "items": [
+                {
+                    "id": "ammo.556",
+                    "count": 500,
+                    "rarity": ""
+                },
+                {
+                    "id": "ammo.12gauge",
+                    "count": 200,
+                    "rarity": ""
+                },
+                {
+                    "id": "ammo.9mm",
+                    "count": 100,
+                    "rarity": ""
+                },
+                {
+                    "id": "ammo.762",
+                    "count": 200,
+                    "rarity": ""
+                }
+            ],
+            "expires": "2026-11-27"
         }
     ]
 }
